@@ -1,0 +1,11 @@
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\obj\Debug\netcoreapp3.0\ElectricBill.csprojAssemblyReference.cache
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\obj\Debug\netcoreapp3.0\ElectricBill.AssemblyInfoInputs.cache
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\obj\Debug\netcoreapp3.0\ElectricBill.AssemblyInfo.cs
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\bin\Debug\netcoreapp3.0\ElectricBill.exe
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\bin\Debug\netcoreapp3.0\ElectricBill.deps.json
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\bin\Debug\netcoreapp3.0\ElectricBill.runtimeconfig.json
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\bin\Debug\netcoreapp3.0\ElectricBill.runtimeconfig.dev.json
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\bin\Debug\netcoreapp3.0\ElectricBill.dll
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\bin\Debug\netcoreapp3.0\ElectricBill.pdb
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\obj\Debug\netcoreapp3.0\ElectricBill.dll
+C:\Users\4117\source\repos\ElectricBill\ElectricBill\obj\Debug\netcoreapp3.0\ElectricBill.pdb
